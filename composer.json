@@ -8,7 +8,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "marcushat/rolling-curl-x": "dev-master"
+        "marcushat/rolling-curl-x": "*"
     },
     "autoload": {
         "psr-4": {
