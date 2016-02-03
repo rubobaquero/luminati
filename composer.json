@@ -1,0 +1,19 @@
+{
+    "name": "rubobaquero/luminati",
+    "description": "Class for making concurrent HTTP/HTTPS requests via Luminati service",
+    "authors": [
+        {
+            "name": "Rubén Baquero"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "marcushat/rolling-curl-x": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rubobaquero\\": "src/"
+        }
+    },
+    "license": "proprietary"
+}
